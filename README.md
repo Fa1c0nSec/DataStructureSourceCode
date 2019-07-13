@@ -4,6 +4,7 @@
 # 目录说明
 | 目录名称        | 说明           |
 | ------------- |:-------------:|
+| PTA      | PTA程序设计类实验辅助教学平台题目源码 |
 | PrintN      | 循环输出从1到N |
 | PolynomialSolution      | 计算f(x)=1+sigma(i=1->100)x^i/i;      |
 | BinarySearch | 顺序数组二分查找      |
